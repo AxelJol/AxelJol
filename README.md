@@ -7,6 +7,6 @@
 
 ### 👨🏽‍💻 Acerca de mi :
 
-🔭 Graduado en carreras de **Ciencias Naturales** y de **Finanzas Comerciales**. 
-🌱 Actualmente estoy reforzando mis conocimientos en **Java, Javascript**
-🔰  Estoy 
+- 🔭 Graduado en carreras de **Ciencias Naturales** y de **Finanzas Comerciales**. 
+- 🌱 Actualmente estoy reforzando mis conocimientos en **Java, Javascript**.
+- 🔰  Estoy 
