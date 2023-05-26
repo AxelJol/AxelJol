@@ -35,9 +35,9 @@ width="40" height=40"/>&nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Springboot"
 width="40" height=40"/>&nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="SQL" alt="SQL"
-width="40" height=40"/>&nbsp &nbsp;
+width="40" height=40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" tittle="MongoDB" alt="MongoDB"
-width="40" height=40"/>&nbsp &nbsp;
+width="40" height=40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" tittle="Postman" alt="Postman"
 width="40" height=40"/>&nbsp &nbsp;
 
