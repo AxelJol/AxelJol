@@ -52,7 +52,8 @@
 
 ### 📊 Mis estadísticas :
 <div align="center">
-<img src= "http://github-readme-streak-stats.herokuapp.com?user=AxelSarmientoR&theme=transparent&border_radius=23&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelSarmientoR&theme=transparent&border_radius=23&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelSarmientoR&show_icons=true&theme=vue-dark)
   
