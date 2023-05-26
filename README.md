@@ -33,13 +33,13 @@ width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" tittle="Java" alt="Java"
 width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" tittle="Spring" alt="Springboot"
-width="40" height=40"/>
+width="60" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="SQL" alt="SQL"
-width="40" height=40"/>
+width="60" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" tittle="MongoDB" alt="MongoDB"
-width="40" height=40"/>
+width="40" height=60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" tittle="Postman" alt="Postman"
-width="40" height=40"/>
+width="60" height=40"/>
 
 </div>
 </div>
