@@ -49,7 +49,7 @@ width="40" height=40"/>&nbsp &nbsp;
     <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" tittle="Excel" alt="Excel"
 width="40" height=40"/>&nbsp &nbsp;
- <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" tittle="PowerBI" alt="PowerBI"
+ <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" tittle="PowerBI" alt="PowerBI"
 width="40" height=40"/>&nbsp &nbsp;
     </div>
 
