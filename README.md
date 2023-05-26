@@ -10,7 +10,7 @@
 
 - 🔭 Graduado en carreras de **Ciencias Naturales** y de **Finanzas Comerciales**.
 - 🌱 Actualmente estoy reforzando mis conocimientos en **Java, JavaScript**.
-- 🔰 Estoy incursionando en el mundo del **Análisis de datos** en el cual estoy iniciando con **Excel, Power BI, Python**.
+- 🔰 Estoy explorando el fascinante mundo del **Análisis de datos**, sumergiéndome en herramientas como **Excel, Power BI y Python**.
 - 📫 Me puedes contactar por **axeljoel123@hotmail.com**.
 
 ---
