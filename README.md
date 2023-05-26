@@ -31,7 +31,7 @@ width="40" height=40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="PY" alt="Python"
 width="40" height=40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="Java" alt="Java"
-width="40" height=40"/>&nbsp;
+width="40" height=40"/>&nbsp &nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Springboot"
 width="40" height=40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="SQL" alt="SQL"
