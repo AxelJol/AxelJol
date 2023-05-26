@@ -16,4 +16,9 @@
 ---
 
 <div align="left">
-<h3> 🧰 Lenguajes y herramientas:  </h3>
+<h3> 🔨 Lenguajes y herramientas:  </h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" tittle="HTML5" alt="HTML"
+width="40" height=40"/>
+</div>
+</div>
