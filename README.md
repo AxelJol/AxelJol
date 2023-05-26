@@ -40,6 +40,8 @@ width="40" height=40"/>&nbsp;
 width="40" height=40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" tittle="Postman" alt="Postman"
 width="40" height=40"/>&nbsp &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" tittle="Excel" alt="Excel"
+width="40" height=40"/>&nbsp &nbsp;
 
 </div>
 </div>
