@@ -24,22 +24,22 @@ width="40" height=40"/>
 width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" tittle="SASS" alt="SASS"
 width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" tittle="BT" alt="BT"
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" tittle="BT" alt="BT"
 width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JS" alt="Javascript"
 width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" tittle="PY" alt="Python"
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="PY" alt="Python"
 width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" tittle="Java" alt="Java"
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="Java" alt="Java"
 width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" tittle="Spring" alt="Springboot"
-width="70" height=60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="SQL" alt="SQL"
-width="70" height=60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" tittle="MongoDB" alt="MongoDB"
-width="60" height=70"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" tittle="Postman" alt="Postman"
-width="70" height=60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Springboot"
+width="40" height=40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="SQL" alt="SQL"
+width="40" height=40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" tittle="MongoDB" alt="MongoDB"
+width="40" height=40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" tittle="Postman" alt="Postman"
+width="40" height=40"/>
 
 </div>
 </div>
