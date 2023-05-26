@@ -29,7 +29,7 @@ width="40" height=40"/>&nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JS" alt="Javascript"
 width="40" height=40"/>&nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="PY" alt="Python"
-width="40" height=40"/>&nbsp &nbsp;
+width="40" height=40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="Java" alt="Java"
 width="40" height=40"/>&nbsp &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Springboot"
