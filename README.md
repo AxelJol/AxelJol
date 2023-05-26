@@ -58,21 +58,13 @@ width="40" height=40"/>&nbsp &nbsp;
 ---
 
 ### 📊 Mis estadisticas :
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelSarmientoR&theme=transparent&border_radius=23&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelSarmientoR&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelSarmientoR&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="left">
-<h3> 📊 Herramientas:  </h3>
-    <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" tittle="Excel" alt="Excel"
-width="40" height=40"/>&nbsp &nbsp;
- <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" tittle="PowerBI" alt="PowerBI"
-width="40" height=40"/>&nbsp &nbsp;
-    </div>
 
 </div>
 
