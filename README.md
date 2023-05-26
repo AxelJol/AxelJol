@@ -16,7 +16,7 @@
 ---
 
 <div align="left">
-<h3> 💻 Lenguajes:  </h3>
+<h3> 💻 Lenguajes :  </h3>
     <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" tittle="HTML5" alt="HTML"
 width="40" height=40"/>&nbsp;
@@ -43,6 +43,27 @@ width="40" height=40"/>&nbsp &nbsp;
     </div>
 
 </div>
+
+<div align="left">
+<h3> 🔨 Herramientas :  </h3>
+    <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" tittle="Excel" alt="Excel"
+width="40" height=40"/>&nbsp &nbsp;
+ <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" tittle="PowerBI" alt="PowerBI"
+width="40" height=40"/>&nbsp &nbsp;
+    </div>
+
+</div>
+
+---
+
+### 📊 Mis estadisticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelSarmientoR&theme=transparent&border_radius=23&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelSarmientoR&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelSarmientoR&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
 <h3> 📊 Herramientas:  </h3>
