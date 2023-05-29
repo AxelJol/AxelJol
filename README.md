@@ -55,7 +55,7 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelJol&show_icons=true&theme=vue-dark)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelJol&theme=transparent&border_radius=30&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelJol&theme=transparent&border_radius=30&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelJol&layout=Donut-Chart-layout)](https://github.com/anuraghazra/github-readme-stats)
   
