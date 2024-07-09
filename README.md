@@ -8,8 +8,8 @@
 
 ### 👨🏽‍💻 Acerca de mí :
 
-- 🔭 Graduado en carreras de **Ciencias Naturales**, **Finanzas Comerciales** y de **Análisis y Desarrollado de Software**.
-- 🌱 Actualmente estoy reforzando mis conocimientos en **Java, JavaScript**.
+- 🔭 Graduado en carreras de **Ciencias Naturales**, **Finanzas Comerciales** y de **Análisis y Desarrollo de Software**.
+- 🌱 Actualmente estoy reforzando mis conocimientos en **Java**.
 - 🔰 Estoy explorando el fascinante mundo del **Análisis de datos**, sumergiéndome en herramientas como **Excel, Power BI y Python**.
 - 📫 Me puedes contactar por **axeljoel123@hotmail.com**.
 
